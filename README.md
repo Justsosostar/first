@@ -1,4 +1,4 @@
-# One Embedder, Any Task: Instruction-Finetuned Text Embeddings
+#  （Learning 用）One Embedder, Any Task: Instruction-Finetuned Text Embeddings
 
 This repository contains the code and pre-trained models for our paper [One Embedder, Any Task: Instruction-Finetuned Text Embeddings](https://arxiv.org/abs/2212.09741). Please refer to our [project page](https://instructor-embedding.github.io/) for a quick project overview.
 
